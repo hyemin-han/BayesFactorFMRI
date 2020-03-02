@@ -7,7 +7,7 @@ BayesFMRI provides a GUI to
 To test this tool, R (>= 3.5) and Python (>= 3.6.5) are required.
 
  1. Download contents (codes and etc.) in V1.0.
- 2. Download tutorial images files in the designated subfolder(s).
+ 2. Download tutorial images files in the designated subfolder(s) (i.e. /Correction for (1) and /Meta for (2)).
  3. Run bayes_select_ui.py with Python to start either correction_ui or bmeta_ui.
  4. Follow the directions provided with the GUI.
 
