@@ -16,3 +16,7 @@ To test this tool, R (>= 3.5) and Python (>= 3.6.5) are required. Plus, these ad
 At the last stage, you will decide either to run the analysis locally or on a cluster.
 Once you decide to run the analysis locally, then GUI will call Python and R automatically at the end of the process.
 If you choose to run the analysis on a cluster, the GUI will end. You have to upload created files (including both codes, image files, etc.) to a cluster and run run_this.py. These files will be created in a working directory that you specify in GUI. In this process, you may need to write additional code(s) to run run_this.py on the cluster (e.g., slurm batch).
+
+<b>Please refer to and cite these articles when you use BayesFMRI:</b>
+ 1. Bayesian multiple comparison correction: Han, H. (in press). Implementation of Bayesian multiple comparison correction in the second-level analysis of fMRI data: With pilot analyses of simulation and real fMRI datasets based on voxelwise inference. <i>Cognitive Neuroscience</i>.
+ 2. Bayesian meta-analysis: Han, H., & Park, J. (2019). Bayesian meta-analysis of fMRI image data. <i>Cognitive Neuroscience, 10</i>(2), 66-76.
