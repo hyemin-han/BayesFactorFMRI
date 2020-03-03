@@ -4,7 +4,7 @@ BayesFMRI provides a GUI to
  1. Bayesian 2nd-level analysis of fMRI data with multiple comparison correction and
  2. Bayesian meta-analysis of fMRI studies.
 
-To test this tool, R (>= 3.5) and Python (>= 3.6.5) are required. Plus, these additional packages should be installed:
+To test this tool, R (>= 3.5) and Python (>= 3.7.3) are required. Plus, these additional packages should be installed:
  R: BayesFactor, metaBMA, oro.nifti
  Python: tkinter (for GUI), shutil, pandas, nibabel, rpy2, subprocess, numpy (os, math, atexit, glob)
 
