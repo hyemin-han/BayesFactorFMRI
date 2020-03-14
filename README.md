@@ -4,7 +4,7 @@
  1. Bayesian multiple comparison correction: Han, H. (in press). Implementation of Bayesian multiple comparison correction in the second-level analysis of fMRI data: With pilot analyses of simulation and real fMRI datasets based on voxelwise inference. <i>Cognitive Neuroscience</i>.
  2. Bayesian meta-analysis: Han, H., & Park, J. (2019). Bayesian meta-analysis of fMRI image data. <i>Cognitive Neuroscience, 10</i>(2), 66-76.
 
-BayesFMRI provides a GUI to 
+<b>BayesFMRI provides a GUI to </b>
  1. Bayesian 2nd-level analysis of fMRI data with multiple comparison correction and
  2. Bayesian meta-analysis of fMRI studies.
 
