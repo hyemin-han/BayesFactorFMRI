@@ -12,7 +12,7 @@ To test this tool, R (>= 3.5) and Python (>= 3.7.3) are required. Plus, these ad
  R: BayesFactor, metaBMA, oro.nifti
  Python: tkinter (for GUI), shutil, pandas, nibabel, rpy2, subprocess, numpy (os, math, atexit, glob)
 
- 1. Download contents (codes and etc.) in V1.0.
+ 1. Download contents (codes and etc.) in V1.0.0.
  2. Download tutorial images files in the designated subfolder(s) (i.e. /Correction for (1) and /Meta for (2)).
  3. Run bayes_select_ui.py with Python to start either correction_ui or bmeta_ui.
  4. Follow the directions provided with the GUI.
