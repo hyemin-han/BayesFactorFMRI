@@ -1,4 +1,5 @@
-<b>GUI directions for Bayesian second-level analysis (Tutorial) </b>
+# GUI directions for Bayesian second-level analysis (Tutorial) 
+
  1. "python bayes_select_ui.py" to start the GUI.
  2. Select "Bayesian correction"
  <img src="https://github.com/hyemin-han/BayesFMRI/blob/master/Images/correction_shots/1_task_selection.png" width=50% height=50%>
