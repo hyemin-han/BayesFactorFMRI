@@ -1,13 +1,14 @@
 # GUI directions for Bayesian second-level analysis (Tutorial) 
 
- 1. "python bayes_select_ui.py" to start the GUI.
+ 0. Download all files and sub-folders in "https://github.com/hyemin-han/BayesFMRI/tree/master/V1.0 (codes)" and "https://github.com/hyemin-han/BayesFMRI/tree/master/Correction (tutorial data files)"
+ 1. "python bayes_select_ui.py" in the directory where BayesFMRI codes are downloaded to start the GUI.
  2. Select "Bayesian correction"
  <img src="https://github.com/hyemin-han/BayesFMRI/blob/master/Images/correction_shots/1_task_selection.png" width=50% height=50%>
  3. Select a working directory. All files needed for analysis will be copied to hear, so if needed, create an empty new directory and select it.
   <img src="https://github.com/hyemin-han/BayesFMRI/blob/master/Images/correction_shots/2_working_dir.png" width=50% height=50%>
-  4. Select contrast image files to be analyzed. For this tutorial, select sixteen nii files, 1.nii-16.nii, except mask.nii.
+  4. Select contrast image files to be analyzed. For this tutorial, select sixteen nii files, 1.nii-16.nii, except mask.nii. These nii files are available in the directory containing downloaded tutorial data files.
   <img src="https://github.com/hyemin-han/BayesFMRI/blob/master/Images/correction_shots/3_img_files.png" width=50% height=50%>
-  5. Select a mask image file that designates which voxels should be analyzed. This mask file only consists of 1 vs. 0 or NaN. Only voxels specified with 1 are analyzed by BayesFMRI. A mask file can be created by performing first-order fMRI analysis with widely-used tools, e.g., SPM, AFNI, FSL. For this tutorial, select mask.nii.
+  5. Select a mask image file that designates which voxels should be analyzed. This mask file only consists of 1 vs. 0 or NaN. Only voxels specified with 1 are analyzed by BayesFMRI. A mask file can be created by performing first-order fMRI analysis with widely-used tools, e.g., SPM, AFNI, FSL. For this tutorial, select mask.nii. This nii files are available in the directory containing downloaded tutorial data files.
   <img src="https://github.com/hyemin-han/BayesFMRI/blob/master/Images/correction_shots/4_mask_file.png" width=50% height=50%>
   6. Enter how many processors shall be used for analysis. For example, if "4" is entered, Bayesian second-level analysis will be performed with four processors.
    <img src="https://github.com/hyemin-han/BayesFMRI/blob/master/Images/correction_shots/5_cpus.png" width=50% height=50%>
