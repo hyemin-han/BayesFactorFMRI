@@ -1,6 +1,6 @@
 # GUI directions for Bayesian meta analysis (Tutorial) 
 
- 0. Download all files and sub-folders in "https://github.com/hyemin-han/BayesFMRI/tree/master/V1.0 (codes)" and "https://github.com/hyemin-han/BayesFMRI/tree/master/Meta (tutorial data files)"
+ 0. Download all files and sub-folders in "https://github.com/hyemin-han/BayesFMRI/tree/master/V1.0.0 (codes)" and "https://github.com/hyemin-han/BayesFMRI/tree/master/Meta (tutorial data files)"
  
  1. "python bayes_select_ui.py" in the directory where BayesFMRI codes are downloaded to start the GUI.
  
