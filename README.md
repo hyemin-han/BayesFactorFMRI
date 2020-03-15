@@ -24,3 +24,5 @@ If you choose to run the analysis on a cluster, the GUI will end. You have to up
 <b> In order to see how to perform Bayesian second-level analysis and meta-analysis with tutorial datasets, please refer to one of these:</b>
 
 [GUI directions for Bayesian second-level analysis (Tutorial)](https://github.com/hyemin-han/BayesFMRI/blob/master/HowTo_2nd.md)
+
+[GUI directions for Bayesian meta-analysis (Tutorial)](https://github.com/hyemin-han/BayesFMRI/blob/master/HowTo_meta.md)
