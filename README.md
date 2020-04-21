@@ -1,4 +1,4 @@
-# BayesFMRI
+# BayesFactorFMRI
 
 <b>Please refer to and cite these articles when you use BayesFactorFMRI:</b>
  1. Bayesian multiple comparison correction: Han, H. (in press). Implementation of Bayesian multiple comparison correction in the second-level analysis of fMRI data: With pilot analyses of simulation and real fMRI datasets based on voxelwise inference. <i>Cognitive Neuroscience</i>. http://bit.ly/2S6Uka2
