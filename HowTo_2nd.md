@@ -1,6 +1,6 @@
 # GUI directions for Bayesian second-level analysis (Tutorial) 
 
- 0. Download all files and sub-folders in "https://github.com/hyemin-han/BayesFactorFMRI/tree/master/V1.0.0 (codes)" and "https://github.com/hyemin-han/BayesFMRI/tree/master/Correction (tutorial data files)"
+ 0. Download all files and sub-folders in "https://github.com/hyemin-han/BayesFactorFMRI/tree/master/V1.0.0 (codes)" and "https://github.com/hyemin-han/BayesFactorFMRI/tree/master/Correction (tutorial data files)"
  1. "python bayes_select_ui.py" in the directory where BayesFMRI codes are downloaded to start the GUI.
  2. Select "Bayesian correction"
  <img src="https://github.com/hyemin-han/BayesFactorFMRI/blob/master/Images/correction_shots/1_task_selection.png" width=50% height=50%>
