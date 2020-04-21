@@ -1,10 +1,10 @@
 # BayesFMRI
 
-<b>Please refer to and cite these articles when you use BayesFMRI:</b>
+<b>Please refer to and cite these articles when you use BayesFactorFMRI:</b>
  1. Bayesian multiple comparison correction: Han, H. (in press). Implementation of Bayesian multiple comparison correction in the second-level analysis of fMRI data: With pilot analyses of simulation and real fMRI datasets based on voxelwise inference. <i>Cognitive Neuroscience</i>. http://bit.ly/2S6Uka2
  2. Bayesian meta-analysis: Han, H., & Park, J. (2019). Bayesian meta-analysis of fMRI image data. <i>Cognitive Neuroscience, 10</i>(2), 66-76. http://bit.ly/2RCbxZY
 
-<b>BayesFMRI provides a GUI to </b>
+<b>BayesFactorFMRI provides a GUI to </b>
  1. Bayesian 2nd-level analysis of fMRI data with multiple comparison correction and
  2. Bayesian meta-analysis of fMRI studies.
 
@@ -23,6 +23,6 @@ If you choose to run the analysis on a cluster, the GUI will end. You have to up
 
 <b> In order to see how to perform Bayesian second-level analysis and meta-analysis with tutorial datasets, please refer to one of these:</b>
 
-[GUI directions for Bayesian second-level analysis (Tutorial)](https://github.com/hyemin-han/BayesFMRI/blob/master/HowTo_2nd.md)
+[GUI directions for Bayesian second-level analysis (Tutorial)](https://github.com/hyemin-han/BayesFactorFMRI/blob/master/HowTo_2nd.md)
 
-[GUI directions for Bayesian meta-analysis (Tutorial)](https://github.com/hyemin-han/BayesFMRI/blob/master/HowTo_meta.md)
+[GUI directions for Bayesian meta-analysis (Tutorial)](https://github.com/hyemin-han/BayesFactorFMRI/blob/master/HowTo_meta.md)
