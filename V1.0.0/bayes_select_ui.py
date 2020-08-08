@@ -1,3 +1,12 @@
+# BayesFactorFMRI: This is a GUI-aided tool to perform Bayesian meta-analysis of fMRI data and Bayesian second-level analysis of fMRI contrast files (one-sample t-test) with multiprocessing.
+# author: Hyemin Han, University of Alabama (hyemin.han@ua.edu)
+# BayesFactorFMRI is licensed under MIT License.
+
+# Citations
+# In addition to the Journal of Open Research Software paper,
+# 1. Bayesian multiple comparison correction: Han, H. (2020). Implementation of Bayesian multiple comparison correction in the second-level analysis of fMRI data: With pilot analyses of simulation and real fMRI datasets based on voxelwise inference. Cognitive Neuroscience, 11(3), 157-169. http://bit.ly/2S6Uka2
+# 2. Bayesian meta-analysis: Han, H., & Park, J. (2019). Bayesian meta-analysis of fMRI image data. Cognitive Neuroscience, 10(2), 66-76. http://bit.ly/2RCbxZY
+
 from tkinter import *
 from tkinter import filedialog
 import shutil
@@ -38,12 +47,12 @@ def at_the_end(nexts):
 		# move to bayesian ui directory
 		#os.chdir('Correction_UI')
 		#atexit.register(lambda: exec(open('bayes_correction_ui.py').read()))
-		subprocess.call(["python", "bayes_correction_ui.py"], cwd="Correction_UI")
+		subprocess.call(["python3", "bayes_correction_ui.py"], cwd="Correction_UI")
 	else:
 		# run meta-analysis
 		#os.chdir('Meta_UI')
 		#atexit.register(lambda: exec(open('bmeta_ui.py').read()))
-		subprocess.call(["python", "bmeta_ui.py"], cwd="Meta_UI")
+		subprocess.call(["python3", "bmeta_ui.py"], cwd="Meta_UI")
 	return 1
 
 # A function to deal with the option selection
