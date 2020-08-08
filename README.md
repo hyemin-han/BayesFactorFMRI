@@ -33,7 +33,7 @@ To test this tool, R (>= 3.5) and Python (>= 3.7.3; Python 3.8 is not recommende
 
  1. Download contents (codes and etc.) in V1.0.0.
  2. Download tutorial images files in the designated subfolder(s) (i.e. /Correction for (1) and /Meta for (2)).
- 3. Run bayes_select_ui.py with Python to start either correction_ui or bmeta_ui. At the terminal, execute: python bayes_select_ui.py
+ 3. Run bayes_select_ui.py with Python to start either correction_ui or bmeta_ui. At the terminal, execute: python (or python3) bayes_select_ui.py
  4. Follow the directions provided with the GUI.
 
 At the last stage, you will decide either to run the analysis locally or on a cluster.
