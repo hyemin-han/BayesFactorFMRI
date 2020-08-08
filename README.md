@@ -8,9 +8,9 @@
  1. Bayesian 2nd-level analysis of fMRI data with multiple comparison correction and
  2. Bayesian meta-analysis of fMRI studies.
 
-To test this tool, R (>= 3.5) and Python (>= 3.7.3; Python 3.8 is not recommended due to package-related issues at this point) are required. Plus, these additional packages should be installed:
- R: BayesFactor, metaBMA, oro.nifti
- Python: tkinter (for GUI), shutil, pandas, nibabel, rpy2, subprocess, numpy, nilearn (os, math, atexit, glob)
+To test this tool, R (>= 3.5) and Python (>= 3.7.3; Python 3.8 is not recommended due to package-related issues at this point) are required. Plus, these additional packages should be installed:<p>
+ R: BayesFactor, metaBMA, oro.nifti<p>
+ Python: tkinter (for GUI), shutil, pandas, nibabel, rpy2, subprocess, numpy, nilearn (os, math, atexit, glob)<p>
 
  To install dependencies:
  1. R packages <p>
