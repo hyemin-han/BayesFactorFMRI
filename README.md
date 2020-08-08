@@ -1,7 +1,7 @@
 # BayesFactorFMRI
 
 <b>Please refer to and cite these articles when you use BayesFactorFMRI:</b>
- 1. Bayesian multiple comparison correction: Han, H. (in press). Implementation of Bayesian multiple comparison correction in the second-level analysis of fMRI data: With pilot analyses of simulation and real fMRI datasets based on voxelwise inference. <i>Cognitive Neuroscience, 11</i>(3), 157-169. http://bit.ly/2S6Uka2
+ 1. Bayesian multiple comparison correction: Han, H. (2020). Implementation of Bayesian multiple comparison correction in the second-level analysis of fMRI data: With pilot analyses of simulation and real fMRI datasets based on voxelwise inference. <i>Cognitive Neuroscience, 11</i>(3), 157-169. http://bit.ly/2S6Uka2
  2. Bayesian meta-analysis: Han, H., & Park, J. (2019). Bayesian meta-analysis of fMRI image data. <i>Cognitive Neuroscience, 10</i>(2), 66-76. http://bit.ly/2RCbxZY
 
 <b>BayesFactorFMRI provides a GUI to </b>
