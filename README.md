@@ -38,7 +38,7 @@ To test this tool, R (>= 3.5) and Python (>= 3.7.3; Python 3.8 is not recommende
 
 At the last stage, you will decide either to run the analysis locally or on a cluster.
 Once you decide to run the analysis locally, then GUI will call Python and R automatically at the end of the process.
-If you choose to run the analysis on a cluster, the GUI will end. You have to upload created files (including both codes, image files, etc.) to a cluster and run run_this.py. These files will be created in a working directory that you specify in GUI. In this process, you may need to write additional code(s) to run run_this.py on the cluster (e.g., slurm batch).
+If you choose to run the analysis on a cluster, the GUI will end. You have to upload created files (including both codes, image files, etc.) to a cluster and run run_this.py. These files will be created in a working directory that you specify in GUI. In this process, you may need to write additional code(s) to run run_this.py on the cluster (e.g., slurm batch including "python (or python3) run_this.py").
 
 <b> In order to see how to perform Bayesian second-level analysis and meta-analysis with tutorial datasets, please refer to one of these:</b>
 
