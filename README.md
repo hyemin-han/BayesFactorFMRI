@@ -1,7 +1,7 @@
 # BayesFactorFMRI
 
 <b>Please refer to and cite these articles when you use BayesFactorFMRI:</b><br />
- 0. Han, H. (in pre). BayesFactorFMRI: Implementing Bayesian second-level fMRI analysis with multiple comparison correction and Bayesian meta-analysis of fMRI images with multiprocessing. *Journal of Open Research Software*. (current available via bioRxiv: https://bit.ly/34t7555) <br />
+ 0. Han, H. (2021). BayesFactorFMRI: Implementing Bayesian second-level fMRI analysis with multiple comparison correction and Bayesian meta-analysis of fMRI images with multiprocessing. <i>Journal of Open Research Software, 9</i>(1), 1. http://doi.org/10.5334/jors.328  <br />
  Based on the specific functionality that you intend to use: <br />
  1. Bayesian multiple comparison correction: Han, H. (2020). Implementation of Bayesian multiple comparison correction in the second-level analysis of fMRI data: With pilot analyses of simulation and real fMRI datasets based on voxelwise inference. <i>Cognitive Neuroscience, 11</i>(3), 157-169. http://bit.ly/2S6Uka2
  2. Bayesian meta-analysis: Han, H., & Park, J. (2019). Bayesian meta-analysis of fMRI image data. <i>Cognitive Neuroscience, 10</i>(2), 66-76. http://bit.ly/2RCbxZY
