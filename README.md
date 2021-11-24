@@ -19,7 +19,7 @@ To test this tool, R (>= 3.5) and Python (>= 3.7.3; Python 3.8 is not recommende
  In the R console, execute: <p>
  install.packages('BayesFactor') <p>
  install.packages('metaBMA')<p>
- install.packages('oro.nifti')<p>
+ install.packages('oro.nifti')  *A quick note on 11/24/21: please install the most up-to-date oro.nift, 0.11.0 (as of 11/24/21), to avoid any bug during the result image creation process.*<p>
 
  2. Python packages<p>
  To install the following Python packages, execute the following command at the terminal:<p>
